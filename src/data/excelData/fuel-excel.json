@@ -1,0 +1,1930 @@
+{
+  "LKS13192": [
+    {
+      "date": "02.02.2023",
+      "mileage": "1079399",
+      "location": "W",
+      "fueled": "663",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "09.02.2023",
+      "time": "15:05",
+      "mileage": "1081248",
+      "location": "K",
+      "fueled": "593.2",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "15.02.2023",
+      "time": "13:50",
+      "mileage": "1083076",
+      "location": "K",
+      "fueled": "695.4",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "28.02.2023",
+      "time": "15:15",
+      "mileage": "1084679",
+      "location": "K",
+      "fueled": "568.8",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "01.03.2023",
+      "time": "12:08",
+      "mileage": "1086177",
+      "location": "K",
+      "fueled": "531.1",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "07.03.2023",
+      "time": "16:03",
+      "mileage": "1088077",
+      "location": "K",
+      "fueled": "250.1",
+      "full": "Nie",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "09.03.2023",
+      "time": "13:00",
+      "mileage": "1088858",
+      "location": "K",
+      "fueled": "649.2",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "13.03.2023",
+      "time": "17:30",
+      "mileage": "1090029",
+      "location": "K",
+      "fueled": "379.2",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "17.03.2023",
+      "time": "17:20",
+      "mileage": "1091780",
+      "location": "W",
+      "fueled": "630",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "27.03.2023",
+      "time": "13:40",
+      "mileage": "1093470",
+      "location": "W",
+      "fueled": "150",
+      "full": "Nie",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "29.03.2023",
+      "time": "13:00",
+      "mileage": "1094069",
+      "location": "K",
+      "fueled": "686.8",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "04.04.2023",
+      "time": "13:15",
+      "mileage": "1095811",
+      "location": "K",
+      "fueled": "651.7",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "06.04.2023",
+      "time": "10:30",
+      "mileage": "1096802",
+      "location": "W",
+      "fueled": "388.03",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "18.04.2023",
+      "time": "14:30",
+      "mileage": "1098554",
+      "location": "W",
+      "fueled": "589",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "21.04.2023",
+      "time": "16:50",
+      "mileage": "1100000",
+      "location": "K",
+      "fueled": "531",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "26.04.2023",
+      "time": "18:15",
+      "mileage": "1101370",
+      "location": "W",
+      "fueled": "524.32",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "04.05.2023",
+      "time": "19:30",
+      "mileage": "1102769",
+      "location": "K",
+      "fueled": "536.2",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "09.05.2023",
+      "time": "14:15",
+      "mileage": "1104456",
+      "location": "W",
+      "fueled": "625.96",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "12.05.2023",
+      "time": "17:50",
+      "mileage": "1105789",
+      "location": "W",
+      "fueled": "517.33",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "19.05.2023",
+      "time": "11:00",
+      "mileage": "1107440",
+      "location": "W",
+      "fueled": "600",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "24.05.2023",
+      "time": "18:00",
+      "mileage": "1108807",
+      "location": "W",
+      "fueled": "498.9",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "29.05.2023",
+      "time": "14:30",
+      "mileage": "1110017",
+      "location": "K",
+      "fueled": "415.2",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "01.06.2023",
+      "time": "6:20",
+      "mileage": "1110828",
+      "location": "K",
+      "fueled": "306.7",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "06.06.2023",
+      "time": "16:00",
+      "mileage": "1112521",
+      "location": "W",
+      "fueled": "610.95",
+      "full": "Full",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "15.06.2023",
+      "time": "15:00",
+      "mileage": "1114125",
+      "location": "W",
+      "fueled": "565",
+      "full": "Full",
+      "driver": "Verstappen"
+    }
+  ],
+  "LKS00992": [
+    {
+      "date": "08.02.2023",
+      "mileage": "200580",
+      "location": "W",
+      "fueled": "350",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "10.02.2023",
+      "mileage": "201181",
+      "location": "K",
+      "fueled": "549",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "17.02.2023",
+      "mileage": "202931",
+      "location": "W",
+      "fueled": "662",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "27.02.2023",
+      "mileage": "204794",
+      "location": "W",
+      "fueled": "635",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "01.03.2023",
+      "mileage": "205753",
+      "location": "W",
+      "fueled": "347",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "07.03.2023",
+      "mileage": "207593",
+      "location": "W",
+      "fueled": "651",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "13.03.2023",
+      "mileage": "208653",
+      "location": "W",
+      "fueled": "200",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "15.03.2023",
+      "mileage": "209465",
+      "location": "W",
+      "fueled": "535",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "21.03.2023",
+      "mileage": "211287",
+      "fueled": "140",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "23.03.2023",
+      "mileage": "211942",
+      "location": "W",
+      "fueled": "687",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "28.03.2023",
+      "mileage": "213305",
+      "fueled": "150",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "30.03.2023",
+      "mileage": "213994",
+      "location": "W",
+      "fueled": "598",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "05.04.2023",
+      "mileage": "215734",
+      "location": "W",
+      "fueled": "300",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "11.04.2023",
+      "mileage": "216363",
+      "location": "W",
+      "fueled": "350",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "12.04.2023",
+      "mileage": "217280",
+      "location": "W",
+      "fueled": "527",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "18.04.2023",
+      "mileage": "218527",
+      "location": "W",
+      "fueled": "472",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "25.04.2023",
+      "mileage": "219979",
+      "location": "W",
+      "fueled": "400",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "27.04.2023",
+      "mileage": "221311",
+      "location": "W",
+      "fueled": "602",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "08.05.2023",
+      "mileage": "221957",
+      "location": "W",
+      "fueled": "320",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "10.05.2023",
+      "mileage": "223740",
+      "location": "W",
+      "fueled": "331",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "24.05.2023",
+      "mileage": "225162",
+      "location": "W",
+      "fueled": "427",
+      "full": "Full",
+      "driver": "Bottas"
+    },
+    {
+      "date": "29.05.2023",
+      "mileage": "226670",
+      "location": "W",
+      "fueled": "285",
+      "full": "Nie",
+      "driver": "Bottas"
+    },
+    {
+      "date": "31.05.2023",
+      "mileage": "227461",
+      "location": "W",
+      "fueled": "502",
+      "full": "Full",
+      "driver": "Bottas"
+    }
+  ],
+  "LKS20975": [
+    {
+      "date": "03.02.2023",
+      "mileage": "714231",
+      "fueled": "189",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "03.02.2023",
+      "time": "14:50",
+      "mileage": "714294",
+      "fueled": "771",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "14.02.2023",
+      "fueled": "602.1",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "17.02.2023",
+      "fueled": "224.6",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "22.02.2023",
+      "fueled": "614.8",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "28.02.2023",
+      "location": "W",
+      "fueled": "256.9",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "03.03.2023",
+      "location": "W",
+      "fueled": "280.5",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "05.03.2023",
+      "location": "W",
+      "fueled": "151.54",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "08.03.2023",
+      "mileage": "723205",
+      "location": "W",
+      "fueled": "653.25",
+      "driver": "Alonso"
+    },
+    {
+      "date": "11.03.2023",
+      "mileage": "723452",
+      "location": "W",
+      "fueled": "387.45",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "22.03.2023",
+      "mileage": "725703",
+      "fueled": "753.2",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "31.03.2023",
+      "mileage": "728892",
+      "fueled": "1066.6",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "12.04.2023",
+      "mileage": "731214",
+      "location": "W",
+      "fueled": "778.27",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "20.04.2023",
+      "mileage": "734247",
+      "location": "L",
+      "fueled": "237.55",
+      "full": "Nie",
+      "driver": "Alonso"
+    },
+    {
+      "date": "21.04.2023",
+      "mileage": "734574",
+      "fueled": "897.32",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "05.05.2023",
+      "mileage": "736899",
+      "fueled": "814.5",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "16.05.2023",
+      "mileage": "739428",
+      "fueled": "847.9",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "23.05.2023",
+      "mileage": "742016",
+      "fueled": "794.1",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "01.06.2023",
+      "mileage": "744874",
+      "fueled": "957.3",
+      "full": "Full",
+      "driver": "Alonso"
+    },
+    {
+      "date": "13.06.2023",
+      "mileage": "747859",
+      "fueled": "1005.1",
+      "full": "Full",
+      "driver": "Alonso"
+    }
+  ],
+  "WGM5805H": [
+    {
+      "date": "06.02.2023",
+      "time": "11:30",
+      "mileage": "376790",
+      "location": "K",
+      "fueled": "386.8",
+      "full": "full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "08.02.2023",
+      "time": "10:42",
+      "mileage": "377625",
+      "location": "K",
+      "fueled": "268.1",
+      "full": "full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "10.02.2023",
+      "time": "17:35",
+      "mileage": "378525",
+      "location": "K",
+      "fueled": "100.3",
+      "full": "Nie",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "15.02.2023",
+      "time": "19:35",
+      "mileage": "379624",
+      "location": "K",
+      "fueled": "400.9",
+      "full": "Nie",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "20.02.2023",
+      "time": "14:55",
+      "mileage": "380292",
+      "location": "K",
+      "full": "Nie",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "22.02.2023",
+      "time": "16:04",
+      "mileage": "381360",
+      "location": "K",
+      "fueled": "434.1",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "28.02.2023",
+      "time": "14:08",
+      "mileage": "382701",
+      "location": "K",
+      "fueled": "463.9",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "02.03.2023",
+      "time": "17:35",
+      "mileage": "383871",
+      "location": "W",
+      "fueled": "151.17",
+      "full": "Nie",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "06.03.2023",
+      "time": "11:48",
+      "mileage": "384477",
+      "location": "K",
+      "fueled": "439.3",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "17.03.2023",
+      "time": "5:40",
+      "mileage": "388059",
+      "location": "k",
+      "fueled": "480.4",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "17.04.2023",
+      "mileage": "395705",
+      "location": "W",
+      "fueled": "487",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "24.04.2023",
+      "mileage": "397276",
+      "location": "W",
+      "fueled": "360",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "28.04.2023",
+      "time": "13:30",
+      "mileage": "398310",
+      "location": "K",
+      "fueled": "340",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "08.05.2023",
+      "time": "10:45",
+      "mileage": "399873",
+      "location": "K",
+      "fueled": "596.4",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "10.05.2023",
+      "mileage": "401021",
+      "location": "W",
+      "fueled": "150",
+      "full": "Nie",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "12.05.2023",
+      "time": "10:25",
+      "mileage": "401777",
+      "location": "W",
+      "fueled": "415.21",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "17.05.2023",
+      "time": "12:30",
+      "mileage": "403010",
+      "location": "K",
+      "fueled": "424.2",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "19.05.2023",
+      "time": "14:05",
+      "mileage": "403599",
+      "location": "K",
+      "fueled": "220.6",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "24.05.2023",
+      "time": "11:20",
+      "mileage": "404826",
+      "location": "W",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    },
+    {
+      "date": "29.05.2023",
+      "time": "7:10",
+      "mileage": "405611",
+      "location": "K",
+      "fueled": "242",
+      "full": "Full",
+      "driver": "Hulkenberg"
+    }
+  ],
+  "WGM0829J": [
+    {
+      "date": "04.04.2023",
+      "time": "17:30",
+      "mileage": "273184",
+      "location": "K",
+      "fueled": "618.7",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "12.04.2023",
+      "time": "17:50",
+      "mileage": "275349",
+      "fueled": "630.6",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "18.04.2023",
+      "time": "11:30",
+      "mileage": "276482",
+      "fueled": "345.9",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "21.04.2023",
+      "time": "16:00",
+      "mileage": "278349",
+      "location": "K",
+      "fueled": "555.1",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "26.04.2023",
+      "time": "15:10",
+      "mileage": "279806",
+      "location": "K",
+      "fueled": "450.4",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "04.05.2023",
+      "time": "8:00",
+      "mileage": "280910",
+      "location": "K",
+      "fueled": "200.2",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "05.05.2023",
+      "time": "13:20",
+      "mileage": "281680",
+      "location": "K",
+      "fueled": "400",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "15.05.2023",
+      "time": "14:30",
+      "mileage": "283314",
+      "location": "K",
+      "fueled": "199.7",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "17.05.2023",
+      "time": "13:00",
+      "mileage": "284117",
+      "location": "K",
+      "fueled": "570.3",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "25.05.2023",
+      "mileage": "286782",
+      "location": "W",
+      "fueled": "65.85",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "25.05.2023",
+      "time": "16:30",
+      "mileage": "286791",
+      "location": "K",
+      "fueled": "620.3",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "02.06.2023",
+      "time": "11:40",
+      "mileage": "288985",
+      "fueled": "600.2",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "09.06.2023",
+      "time": "19:15",
+      "mileage": "290682",
+      "location": "K",
+      "fueled": "500.1",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "15.06.2023",
+      "time": "13:00",
+      "mileage": "292543",
+      "fueled": "543.8",
+      "full": "Full",
+      "driver": "Sainz"
+    }
+  ],
+  "LKS15892": [
+    {
+      "date": "02.02.2023",
+      "time": "10:30",
+      "mileage": "1075801",
+      "location": "K",
+      "fueled": "100.4",
+      "full": "Nie",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "03.02.2023",
+      "time": "16:10",
+      "mileage": "1076468",
+      "location": "K",
+      "fueled": "676.9",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "21.03.2023",
+      "time": "12:00",
+      "mileage": "1078177",
+      "location": "K",
+      "fueled": "604.8",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "27.03.2023",
+      "time": "13:57",
+      "location": "K",
+      "fueled": "395",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "30.03.2023",
+      "time": "11:30",
+      "mileage": "1080982",
+      "location": "K",
+      "fueled": "524.5",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "31.03.2023",
+      "time": "15:25",
+      "mileage": "1081786",
+      "location": "K",
+      "fueled": "239.9",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "06.04.2023",
+      "time": "16:00",
+      "mileage": "1083518",
+      "location": "K",
+      "fueled": "631.8",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "17.04.2023",
+      "time": "11:02",
+      "mileage": "1085318",
+      "location": "K",
+      "fueled": "589.3",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "21.04.2023",
+      "time": "15:00",
+      "location": "K",
+      "fueled": "709.9",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "27.04.2023",
+      "time": "11:20",
+      "mileage": "1088849",
+      "location": "K",
+      "fueled": "482.3",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "08.05.2023",
+      "time": "9:00",
+      "mileage": "1090589",
+      "location": "K",
+      "fueled": "590.5",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "11.05.2023",
+      "time": "13:05",
+      "mileage": "1092140",
+      "location": "K",
+      "fueled": "518.8",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "17.05.2023",
+      "time": "15:20",
+      "mileage": "10938898",
+      "location": "K",
+      "fueled": "592.6",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "24.05.2023",
+      "time": "5:55",
+      "mileage": "1095250",
+      "location": "K",
+      "fueled": "485",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "26.05.2023",
+      "time": "13:20",
+      "mileage": "1096244",
+      "location": "K",
+      "fueled": "338.2",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "02.06.2023",
+      "time": "16:35",
+      "mileage": "1098458",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "12.06.2023",
+      "time": "6:32",
+      "mileage": "1100018",
+      "location": "K",
+      "fueled": "599.9",
+      "full": "Full",
+      "driver": "Magnussen"
+    },
+    {
+      "date": "16.06.2023",
+      "time": "12:40",
+      "mileage": "1102236",
+      "location": "K",
+      "fueled": "699.2",
+      "full": "Full",
+      "driver": "Magnussen"
+    }
+  ],
+  "LKS38U9": [
+    {
+      "date": "31.01.2023",
+      "time": "15:30",
+      "mileage": "394947",
+      "location": "W",
+      "fueled": "677",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "13.02.2023",
+      "time": "13:00",
+      "mileage": "396233",
+      "location": "W",
+      "fueled": "573",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "17.02.2023",
+      "time": "14:50",
+      "mileage": "397617",
+      "location": "W",
+      "fueled": "543.34",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "24.02.2023",
+      "time": "21:50",
+      "mileage": "399251",
+      "location": "W",
+      "fueled": "633.02",
+      "full": "Full",
+      "driver": "Tsunoda"
+    }
+  ],
+  "LU019MJ": [
+    {
+      "date": "27.01.2023",
+      "time": "11:59",
+      "mileage": "731851",
+      "location": "K",
+      "fueled": "756",
+      "full": "Full",
+      "driver": "Perez"
+    },
+    {
+      "date": "07.02.2023",
+      "time": "11:00",
+      "mileage": "733972",
+      "location": "K",
+      "fueled": "340",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "08.02.2023",
+      "time": "18:45",
+      "mileage": "734856",
+      "location": "K",
+      "fueled": "140",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "10.02.2023",
+      "time": "13:00",
+      "mileage": "735703",
+      "location": "K",
+      "fueled": "350",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "14.02.2023",
+      "time": "12:10",
+      "mileage": "736346",
+      "location": "K",
+      "fueled": "200",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "17.02.2023",
+      "time": "10:20",
+      "mileage": "737081",
+      "location": "K",
+      "fueled": "326",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "21.02.2023",
+      "time": "15:44",
+      "mileage": "737990",
+      "location": "K",
+      "fueled": "312",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "03.03.2023",
+      "time": "16:00",
+      "mileage": "738858",
+      "location": "K",
+      "fueled": "450",
+      "full": "Nie",
+      "driver": "Verstappen"
+    },
+    {
+      "date": "07.03.2023",
+      "time": "11:20",
+      "mileage": "740045",
+      "location": "K",
+      "fueled": "150",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "10.03.2023",
+      "time": "11:24",
+      "mileage": "740976",
+      "location": "K",
+      "fueled": "350",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "14.03.2023",
+      "time": "8:46",
+      "mileage": "741548",
+      "location": "Lublin",
+      "fueled": "251",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "16.03.2023",
+      "time": "11:30",
+      "mileage": "742387",
+      "location": "K",
+      "fueled": "210",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "17.03.2023",
+      "time": "15:00",
+      "mileage": "742844",
+      "location": "W",
+      "fueled": "310",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "22.03.2023",
+      "time": "10:00",
+      "mileage": "743730",
+      "location": "K",
+      "fueled": "314",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "28.03.2023",
+      "time": "11:40",
+      "mileage": "745121",
+      "location": "K",
+      "fueled": "856",
+      "full": "Full",
+      "driver": "Perez"
+    },
+    {
+      "date": "03.04.2023",
+      "time": "15:20",
+      "mileage": "747053",
+      "location": "K",
+      "fueled": "290",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "05.04.2023",
+      "time": "16:40",
+      "mileage": "748179",
+      "location": "K",
+      "fueled": "760",
+      "full": "Full",
+      "driver": "Perez"
+    },
+    {
+      "date": "14.04.2023",
+      "time": "15:50",
+      "mileage": "749844",
+      "location": "K",
+      "fueled": "571",
+      "full": "Full",
+      "driver": "Perez"
+    },
+    {
+      "date": "21.04.2023",
+      "time": "12:45",
+      "mileage": "751633",
+      "location": "K",
+      "fueled": "656",
+      "full": "Full",
+      "driver": "Perez"
+    },
+    {
+      "date": "02.05.2023",
+      "time": "9:15",
+      "mileage": "753716",
+      "location": "K",
+      "fueled": "500",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "08.05.2023",
+      "time": "5:20",
+      "mileage": "754569",
+      "location": "W",
+      "fueled": "150",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "10.05.2023",
+      "time": "12:15",
+      "mileage": "755358",
+      "location": "K",
+      "fueled": "289",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "12.05.2023",
+      "time": "11:45",
+      "mileage": "756278",
+      "location": "W",
+      "fueled": "330",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "17.05.2023",
+      "time": "10:00",
+      "mileage": "757164",
+      "location": "K",
+      "fueled": "149",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "24.05.2023",
+      "time": "12:30",
+      "mileage": "759183",
+      "location": "K",
+      "fueled": "331",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "26.05.2023",
+      "time": "12:35",
+      "mileage": "760109",
+      "location": "K",
+      "fueled": "600",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "06.06.2023",
+      "time": "12:00",
+      "mileage": "761928",
+      "location": "K",
+      "fueled": "323",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "09.06.2023",
+      "time": "11:00",
+      "mileage": "762700",
+      "location": "K",
+      "fueled": "300",
+      "full": "Nie",
+      "driver": "Perez"
+    },
+    {
+      "date": "13.06.2023",
+      "time": "16:20",
+      "mileage": "763679",
+      "location": "K",
+      "fueled": "713",
+      "full": "Full",
+      "driver": "Perez"
+    }
+  ],
+  "LKS00044": [
+    {
+      "date": "03.02.2023",
+      "time": "14:50",
+      "mileage": "1279235",
+      "location": "K",
+      "fueled": "600.4",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "09.02.2023",
+      "time": "14:30",
+      "mileage": "1280666",
+      "location": "K",
+      "fueled": "199.9",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "14.02.2023",
+      "time": "9:50",
+      "mileage": "1281605",
+      "location": "K",
+      "fueled": "400.5",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "16.02.2023",
+      "time": "10:50",
+      "mileage": "1282387",
+      "location": "K",
+      "fueled": "300.4",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "22.02.2023",
+      "time": "11:40",
+      "mileage": "1283609",
+      "location": "K",
+      "fueled": "450.3",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "24.02.2023",
+      "time": "15:20",
+      "mileage": "1284423",
+      "location": "K",
+      "fueled": "200.2",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "28.02.2023",
+      "time": "8:15",
+      "mileage": "1285407",
+      "location": "K",
+      "fueled": "599.8",
+      "full": "Nie",
+      "driver": "Sainz"
+    },
+    {
+      "date": "06.03.2023",
+      "time": "14:00",
+      "mileage": "1286623",
+      "location": "K",
+      "fueled": "544.4",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "15.03.2023",
+      "time": "14:45",
+      "mileage": "1288636",
+      "location": "K",
+      "fueled": "708",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "22.03.2023",
+      "mileage": "1290624",
+      "location": "K",
+      "fueled": "689.1",
+      "full": "Full",
+      "driver": "Sainz"
+    },
+    {
+      "date": "07.04.2023",
+      "time": "12:45",
+      "mileage": "1293595",
+      "location": "W",
+      "fueled": "576.37",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "14.04.2023",
+      "time": "16:30",
+      "mileage": "1294827",
+      "location": "W",
+      "fueled": "445.46",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "20.04.2023",
+      "time": "15:10",
+      "mileage": "1296322",
+      "location": "W",
+      "fueled": "578.3",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "26.04.2023",
+      "time": "9:45",
+      "mileage": "1298032",
+      "location": "W",
+      "fueled": "609.98",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "02.05.2023",
+      "time": "9:35",
+      "mileage": "1299439",
+      "location": "K",
+      "fueled": "518",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "09.05.2023",
+      "time": "15:40",
+      "mileage": "1300709",
+      "location": "W",
+      "fueled": "466.81",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "16.05.2023",
+      "time": "5:25",
+      "mileage": "1301890",
+      "location": "W",
+      "fueled": "436.54",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "19.05.2023",
+      "time": "18:25",
+      "mileage": "1303749",
+      "location": "K",
+      "fueled": "709.8",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "24.05.2023",
+      "time": "16:30",
+      "mileage": "1304984",
+      "location": "K",
+      "fueled": "444.7",
+      "full": "Full",
+      "driver": "Tsunoda"
+    },
+    {
+      "date": "30.05.2023",
+      "time": "12:10",
+      "mileage": "1306138",
+      "location": "K",
+      "fueled": "438.8",
+      "full": "Full",
+      "driver": "Tsunoda"
+    }
+  ],
+  "LKS18684": [
+    {
+      "date": "30.01.2023",
+      "time": "16:15",
+      "mileage": "773955",
+      "location": "K",
+      "fueled": "340",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "02.02.2023",
+      "time": "10:35",
+      "mileage": "774670",
+      "location": "W",
+      "fueled": "290",
+      "full": "Nie",
+      "driver": "Russell"
+    },
+    {
+      "date": "06.02.2023",
+      "time": "11:20",
+      "mileage": "775556",
+      "location": "K",
+      "fueled": "300",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "09.02.2023",
+      "time": "13:00",
+      "mileage": "776499",
+      "location": "K",
+      "fueled": "335",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "20.02.2023",
+      "time": "15:25",
+      "mileage": "777869",
+      "location": "K",
+      "fueled": "510",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "23.02.2023",
+      "time": "12:25",
+      "mileage": "778937",
+      "location": "K",
+      "fueled": "400",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "27.02.2023",
+      "time": "17:05",
+      "mileage": "779722",
+      "location": "K",
+      "fueled": "260",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "02.03.2023",
+      "time": "11:20",
+      "mileage": "780688",
+      "location": "K",
+      "fueled": "340",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "06.03.2023",
+      "time": "11:40",
+      "mileage": "781438",
+      "location": "K",
+      "fueled": "255",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "10.03.2023",
+      "time": "15:20",
+      "mileage": "782985",
+      "location": "K",
+      "fueled": "530",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "17.03.2023",
+      "time": "13:45",
+      "mileage": "784504",
+      "location": "K",
+      "fueled": "520",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "27.03.2023",
+      "time": "14:10",
+      "mileage": "786021",
+      "location": "K",
+      "fueled": "510",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "29.03.2023",
+      "time": "8:40",
+      "mileage": "786783",
+      "fueled": "290",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "31.03.2023",
+      "time": "12:46",
+      "mileage": "787850",
+      "fueled": "360",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "11.04.2023",
+      "time": "16:20",
+      "mileage": "788870",
+      "location": "K",
+      "fueled": "400",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "17.04.2023",
+      "time": "6:40",
+      "mileage": "790345",
+      "location": "K",
+      "fueled": "510",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "20.04.2023",
+      "time": "9:45",
+      "mileage": "791335",
+      "location": "K",
+      "fueled": "330",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "26.04.2023",
+      "time": "17:15",
+      "mileage": "792597",
+      "location": "K",
+      "fueled": "420",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "28.04.2023",
+      "time": "11:35",
+      "mileage": "793469",
+      "location": "K",
+      "fueled": "300",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "05.05.2023",
+      "time": "16:20",
+      "mileage": "794285",
+      "location": "K",
+      "fueled": "290",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "11.05.2023",
+      "time": "9:25",
+      "mileage": "795732",
+      "location": "K",
+      "fueled": "525",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "17.05.2023",
+      "time": "13:40",
+      "mileage": "797258",
+      "location": "K",
+      "fueled": "545",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "19.05.2023",
+      "time": "17:35",
+      "mileage": "798154",
+      "location": "K",
+      "fueled": "305",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "25.05.2023",
+      "time": "6:40",
+      "mileage": "799216",
+      "location": "K",
+      "fueled": "365",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "26.05.2023",
+      "time": "17:30",
+      "mileage": "799979",
+      "location": "K",
+      "fueled": "240",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "30.05.2023",
+      "time": "15:55",
+      "mileage": "801097",
+      "location": "K",
+      "fueled": "364",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "02.06.2023",
+      "time": "9:45",
+      "mileage": "801818",
+      "location": "K",
+      "fueled": "250",
+      "full": "Full",
+      "driver": "Russell"
+    },
+    {
+      "date": "12.06.2023",
+      "time": "17:00",
+      "mileage": "803262",
+      "location": "K",
+      "fueled": "461",
+      "full": "Full",
+      "driver": "Russell"
+    }
+  ],
+  "WOT73462": [
+    {
+      "date": "31.01.2023",
+      "time": "14:02",
+      "mileage": "639339",
+      "location": "K",
+      "fueled": "680",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "09.02.2023",
+      "time": "8:00",
+      "mileage": "641749",
+      "location": "K",
+      "fueled": "748",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "20.02.2023",
+      "time": "13:25",
+      "mileage": "644818",
+      "location": "K",
+      "fueled": "903",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "02.03.2023",
+      "time": "15:20",
+      "mileage": "647770",
+      "location": "K",
+      "fueled": "382",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "06.03.2023",
+      "time": "13:40",
+      "mileage": "648918",
+      "location": "K",
+      "fueled": "870",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "10.03.2023",
+      "time": "18:20",
+      "mileage": "650982",
+      "location": "K",
+      "fueled": "605",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "21.03.2023",
+      "time": "17:05",
+      "mileage": "653862",
+      "location": "K",
+      "fueled": "365",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "27.03.2023",
+      "time": "11:15",
+      "mileage": "654835",
+      "location": "K",
+      "fueled": "280",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "28.03.2023",
+      "time": "18:30",
+      "mileage": "655586",
+      "location": "K",
+      "fueled": "242.5",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "30.03.2023",
+      "time": "12:10",
+      "mileage": "656609",
+      "location": "K",
+      "fueled": "310",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "03.04.2023",
+      "time": "11:00",
+      "mileage": "657403",
+      "location": "K",
+      "fueled": "720",
+      "full": "Full",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "12.04.2023",
+      "time": "16:10",
+      "mileage": "659636",
+      "location": "K",
+      "fueled": "275",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "17.04.2023",
+      "time": "17:05",
+      "mileage": "661081",
+      "location": "K",
+      "fueled": "329",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "19.04.2023",
+      "time": "14:50",
+      "mileage": "661813",
+      "location": "K",
+      "fueled": "236.69",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "21.04.2023",
+      "time": "13:30",
+      "mileage": "662818",
+      "location": "K",
+      "fueled": "280",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "25.04.2023",
+      "time": "13:10",
+      "mileage": "663408",
+      "location": "K",
+      "fueled": "360",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "28.04.2023",
+      "time": "13:05",
+      "mileage": "665171",
+      "location": "K",
+      "fueled": "315",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "05.05.2023",
+      "time": "12:10",
+      "mileage": "665945",
+      "location": "K",
+      "fueled": "380",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "11.05.2023",
+      "time": "15:05",
+      "mileage": "667634",
+      "location": "K",
+      "fueled": "335",
+      "full": "Nie",
+      "driver": "Leclerc"
+    },
+    {
+      "date": "12.05.2023",
+      "time": "16:55",
+      "mileage": "668015",
+      "location": "K",
+      "fueled": "560",
+      "full": "Full",
+      "driver": "Leclerc"
+    }
+  ]
+}
