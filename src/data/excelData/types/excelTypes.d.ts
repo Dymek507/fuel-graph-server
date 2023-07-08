@@ -1,5 +1,4 @@
 export type ExcelData = {
-  date: string;
   fuelingTime: string;
   mileage: number;
   place: string;
@@ -10,7 +9,7 @@ export type ExcelData = {
 
 export type RawExcelDay = {
   date: string;
-  time: any;
+  time: string | undefined;
   mileage: any;
   location: string;
   fueled: any;
