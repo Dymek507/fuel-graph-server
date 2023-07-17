@@ -1,4 +1,4 @@
-import { AllExcelData, AllRawExcelData } from "../types/excelTypes";
+import { AllExcelData, AllRawExcelData } from "../../types/excelTypes";
 import { checkIfFull } from "./checkIfFull";
 import { getLocation } from "./getLocation";
 import { stringToDate } from "./stringToDate";
